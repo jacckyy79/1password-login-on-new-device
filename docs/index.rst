@@ -1,4 +1,4 @@
-1Password Login on New Device
+How to Login 1Password on New Device?
 ------------------------------------------------------------------
 
 .. toctree::
